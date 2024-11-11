@@ -1,27 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Next-Word Text Predictor using LSTM - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-        }
-    </style>
-</head>
+
+
 <body>
     <div class="container">
         <h1>Next-Word Text Predictor using LSTM</h1>
